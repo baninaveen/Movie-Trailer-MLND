@@ -9,13 +9,11 @@ You should know Python for server side code - backend, HTML, CSS, Javascript for
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+Go to Terminal/CMD move to project folder where you want to install your project. Just Enter below code into your Terminal/CMD 
 
 ```
-Give the example
+git clone https://github.com/baninaveen/Movie-Trailer-MLND.git
 ```
+### Usage
 
-
-
+This project is a 1st Project for [Machine Learning Nanodegree Program](https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009-in-basic/) by UDACITY
