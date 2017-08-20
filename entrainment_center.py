@@ -5,7 +5,7 @@ toystory = media.Movie("Toy Story",
                        "A story of a boy and his toys",
                        "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",   	# NOQA
                        "https://www.youtube.com/watch?v=vwyZH85NQC4")
-# print(toystory.storyline)
+
 jab_harry_met = media.Movie("Jab Harry Mete",
                             "What you seek is seeking you!",
                             "http://static.koimoi.com/wp-content/new-galleries/2017/06/jab-harry-met-sejal-poster-2.jpg",   	# NOQA
@@ -60,7 +60,7 @@ fate_furious = media.Movie("The fate of the Furious 2017",
                            "Racing never ends",
                            "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMxODI2NDM5Nl5BMl5BanBnXkFtZTgwNjgzOTk1MTI@._V1_SY1000_CR0,0,631,1000_AL_.jpg",  	 # NOQA
                            "https://www.youtube.com/watch?v=J_k1yGJtHgw")
-
+# Initialze Movie Class from Media.py
 movies = [toystory, jab_harry_met, jagga_jasoos, munna_michael, half_girlfriend, 	# NOQA
             maa, mubarakan, raabta, transformers, spider_man, emoji_movies, fate_furious] 	# NOQA
 fresh_tomatoes.open_movies_page(movies)
