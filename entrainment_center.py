@@ -1,6 +1,6 @@
 import fresh_tomatoes
 import media
-
+# Movie class takes Movie Title, Storyline, PosterImage and Movie Trailer inputs
 toystory = media.Movie("Toy Story",
                        "A story of a boy and his toys",
                        "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",   	# NOQA
