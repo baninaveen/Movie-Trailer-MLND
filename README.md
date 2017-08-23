@@ -26,3 +26,4 @@ This project is a 1st Project for [Machine Learning Nanodegree Program](https://
 
 Check How it look like [here](/index.html)
 
+![Sample Website](sample_movie.png)
