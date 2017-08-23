@@ -24,5 +24,5 @@ This project is a 1st Project for [Machine Learning Nanodegree Program](https://
 
 ### Sample Movie Trailer Website
 
-Check How it look like [here](/fresh_tomatoes.html)
+Check How it look like [here](/index.html)
 
